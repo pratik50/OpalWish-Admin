@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "311799315683",
+    "firebase_url": "https://opalwish-4b721-default-rtdb.firebaseio.com",
+    "project_id": "opalwish-4b721",
+    "storage_bucket": "opalwish-4b721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311799315683:android:3466c2a1fab0d9143f19d6",
+        "android_client_info": {
+          "package_name": "com.example.opalwish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2S2dnrbVbQBXZvwV3H27hWJMzGu6uTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311799315683:android:1f3a48097f07084f3f19d6",
+        "android_client_info": {
+          "package_name": "com.pratik.OpalWishAdmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2S2dnrbVbQBXZvwV3H27hWJMzGu6uTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311799315683:android:b113ce1fff36a1c93f19d6",
+        "android_client_info": {
+          "package_name": "com.pratik.opalWishAdmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2S2dnrbVbQBXZvwV3H27hWJMzGu6uTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

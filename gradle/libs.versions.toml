@@ -1,0 +1,36 @@
+[versions]
+agp = "8.5.0-alpha02"
+kotlin = "1.9.0"
+core-ktx = "1.12.0"
+junit = "4.13.2"
+androidx-test-ext-junit = "1.1.5"
+espresso-core = "3.5.1"
+appcompat = "1.6.1"
+material = "1.9.0"
+constraintlayout = "2.1.4"
+roundedimageview = "2.3.0"
+firebase-storage-ktx = "20.2.1"
+firebase-firestore-ktx = "24.8.1"
+firebase-firestore = "24.9.1"
+firebase-database = "20.3.0"
+google-firebase-storage-ktx = "20.3.0"
+
+[libraries]
+core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+roundedimageview = { module = "com.makeramen:roundedimageview", version.ref = "roundedimageview" }
+firebase-storage-ktx = { group = "com.google.firebase", name = "firebase-storage-ktx", version.ref = "firebase-storage-ktx" }
+firebase-firestore-ktx = { group = "com.google.firebase", name = "firebase-firestore-ktx", version.ref = "firebase-firestore-ktx" }
+firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebase-firestore" }
+firebase-database = { group = "com.google.firebase", name = "firebase-database", version.ref = "firebase-database" }
+google-firebase-storage-ktx = { group = "com.google.firebase", name = "firebase-storage-ktx", version.ref = "google-firebase-storage-ktx" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+
